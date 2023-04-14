@@ -1,4 +1,4 @@
-```
+```java
 package task4_4;
 public class Task4_4 {
 public static void main(String[] args) {
@@ -12,7 +12,7 @@ public static void main(String[] args) {
 }
 }
 ```
-```
+```java
 package task4_4;
 public class Rectangle {
 double width;
