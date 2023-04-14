@@ -1,1 +1,8 @@
-# 浙江师范大学行知学院鲍贤舟牛逼
+```
+#include <stdio.h>
+int main()
+{
+printf("Hello, World!");
+return 0;
+}
+```
