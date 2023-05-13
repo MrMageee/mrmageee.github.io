@@ -1,4 +1,4 @@
-[图片1](https://github.com/MrMageee/mrmageee.github.io/raw/main/IMG_20221121_220729.jpg)
+![图片1](https://github.com/MrMageee/mrmageee.github.io/raw/main/IMG_20221121_220729.jpg)
 [图片2](https://github.com/MrMageee/mrmageee.github.io/raw/main/IMG_20221121_222451.jpg)
 [图片3](https://github.com/MrMageee/mrmageee.github.io/raw/main/IMG_20221121_222554.jpg)
 [图片4](https://github.com/MrMageee/mrmageee.github.io/raw/main/IMG_20221121_222846.jpg)
